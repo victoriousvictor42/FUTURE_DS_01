@@ -1,8 +1,8 @@
-# Superstore Sales Dashboard - FUTURE_DS_01 - README
+# E-commerce Sales Dashboard - FUTURE_DS_01 - README
 
 ## Overview
 
-The Superstore Sales Dashboard provides a visual representation of key metrics and data related to sales performance. The dashboard includes insights about total sales, profits, quantities, and sales performance across various regions, products, and categories. It allows users to analyze the sales data for the years 2011, 2012, 2013, and 2014, offering a detailed breakdown of key performance indicators (KPIs) such as total sales, profit margin, and product performance.
+The E-commerce Sales Dashboard provides a visual representation of key metrics and data related to sales performance. The dashboard includes insights about total sales, profits, quantities, and sales performance across various regions, products, and categories. It allows users to analyze the sales data for the years 2011, 2012, 2013, and 2014, offering a detailed breakdown of key performance indicators (KPIs) such as total sales, profit margin, and product performance.
 
 ## Key Metrics:
 
